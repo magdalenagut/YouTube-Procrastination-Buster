@@ -1,5 +1,5 @@
 ## General info
-This project is simple chrome extension, which remove suggested videos helping with stop looping yourself on Youtube.
+This project is simple chrome extension which remove suggested videos, helping with stop looping yourself on Youtube.
 
 ## Technologies
 Project is created with:
