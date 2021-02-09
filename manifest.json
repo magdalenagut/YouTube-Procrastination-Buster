@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "YTPB",
+    "version": "0.1.0",
+    "description": "YouTube Procrastination Buster",
+        
+    "content_scripts": [{
+      "js": ["script.js"],
+      "matches": ["https://www.youtube.com/*"]
+    }],
+
+    "browser_action": {
+     "default_icon":"icon.png"
+    }
+}
