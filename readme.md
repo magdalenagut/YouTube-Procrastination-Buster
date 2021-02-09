@@ -19,10 +19,10 @@ To run this project:
 
 ## Customize
 To customize this extension
-* Open YuoTube website
+* Open YouTube website
 * Select "Extensions" on browser panel
 * Select "Pin it" next to YTPB icon
 * Select "More activites"
 * Select "Read and change your data on the pages"
 * Select "When you click the extension"
-* Ready to use when you clik YTPB icon on browser panel
+* Ready to use when you click YTPB icon on browser panel
