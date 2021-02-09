@@ -25,4 +25,5 @@ To customize this extension
 * Select "More activites"
 * Select "Read and change your data on the pages"
 * Select "When you click the extension"
+* Refresh YouTube website
 * Ready to use when you click YTPB icon on browser panel
